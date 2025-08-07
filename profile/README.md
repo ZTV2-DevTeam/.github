@@ -94,5 +94,5 @@ A ZTV2 egy **forgatásszervező platform**, amely kifejezetten a **Kőbányai Sz
 | **Balla Botond** | Vezetőfejlesztő, Architect | [@PstasDev](https://github.com/PstasDev) |
 | **Kovács Ádám Lőrinc** | Fejlesztő | [@lorenth-kovacs](https://github.com/lorenth-kovacs) |
 | **Péterfi Dénes** | Fejlesztő | [@Denesz009](https://github.com/Denesz009) |
-| **Tóth László Barnabás** | Fejlesztő |  |
+| **Tóth László Barnabás** | Fejlesztő | [@BuilderSnail](https://github.com/BuilderSnail) |
 
